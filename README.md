@@ -15,7 +15,8 @@ I have used a Kalman filter, lidar measurements and radar measurements to track 
 
 [image1]: ./image/tracking_with_lidar.png "tracking_with_lidar"
 
-![alt text] [image1] 
+
+![alt text][image1] 
 
 
 The algorithm runs against "sample-laser-radar-measurement-data-1.txt". The algorithm outputs the positions and gets compared to ground truth data. 
