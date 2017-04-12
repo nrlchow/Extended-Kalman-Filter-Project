@@ -13,7 +13,7 @@ I have used a Kalman filter, lidar measurements and radar measurements to track 
 
 [//]: # (Image References)
 
-[image1]: ./output_images/tracking_with_lidar.png "tracking_with_lidar"
+[image1]: ./image/tracking_with_lidar.png "tracking_with_lidar"
 
 ![alt text] [image1] 
 
